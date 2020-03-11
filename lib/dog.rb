@@ -7,5 +7,6 @@ fido.name
 # => "Fido"
  
 fido.bark
-woof!
-# => nil
+ def bark
+ puts "woof!"
+end 
