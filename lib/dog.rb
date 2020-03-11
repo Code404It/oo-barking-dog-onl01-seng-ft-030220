@@ -5,9 +5,8 @@ fido.name = "Fido"
 end 
 fido.name
 
- 
-fido.bark
  def bark
+  fido.bark
  puts "woof!"
  end 
 end
